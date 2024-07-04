@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# passwordgenerator" 
 # Password-Generator
 "# Password-Generator" 
+"# PasswordGenerator" 
